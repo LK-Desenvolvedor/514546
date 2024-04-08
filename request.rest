@@ -1,0 +1,9 @@
+POST http://localhost:3000/api/userRoutes
+Content-Type: application/json
+
+
+{
+    "name":"Jao",
+    "email":"jao.gmail.com",
+    "password":"jaopao"
+}
